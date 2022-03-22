@@ -1,6 +1,3 @@
-
-
-
 import pandas as pd 
 from pymystem3 import Mystem #импортируем библиотеку pymystem3 для лематизации данных
 from collections import Counter #импортируем библиотеку collections а из нее спец контейнер Counter
